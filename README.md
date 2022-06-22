@@ -18,4 +18,4 @@ The splits for each subset are saved in a json-Files that contain a list of dict
 
 ## Class Mapping
 
-The original class_ids are mapped to new set of train_ids for Disjoint Cityscapes. Please check the adjusted labels.py which is based on the original [Cityscapes implementation](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py). A example on how to map Cityscapes class ids to trainIds can be found in the notebook here.
+The original class_ids are mapped to new set of train_ids for Disjoint Cityscapes. Please check the adjusted [labels.py](labels.py) which is based on the original [Cityscapes implementation](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py). A example on how to map Cityscapes class ids to trainIds can be found in the notebook [here](labels.ipynb).
